@@ -1,0 +1,13 @@
+<div class="container">
+    <form class="input-group" (ngSubmit)="cadastrarProduto()">
+        <input type="text" aria-label="First name" class="form-control" placeholder="Nome do produto" name="nome" [(ngModel)]="produto.nome">
+
+        <input type="number" aria-label="First name" class="form-control" placeholder="Quantidade" name="quantidade" [(ngModel)]="produto.quantidade">
+
+        <input type="number" aria-label="Last name" class="form-control" placeholder="Preço do produto"
+        name="preco" [(ngModel)]="produto.preco">
+
+
+        <input class="btn btn-outline-secondary" type="submit" value="Cadastrar">
+    </form>
+</div>

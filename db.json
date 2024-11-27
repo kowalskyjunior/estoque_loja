@@ -1,0 +1,40 @@
+{
+  "produtos": [
+    {
+      "id": "1",
+      "nome": "a title",
+      "preco": 100,
+      "quantidade": 2
+    },
+    {
+      "id": "2",
+      "nome": "another title",
+      "preco": 200,
+      "quantidade": 2
+    },
+    {
+      "id": "f4bf",
+      "nome": "Panela",
+      "preco": 200,
+      "quantidade": 20
+    },
+    {
+      "id": "9809",
+      "nome": "Colchão",
+      "preco": 500,
+      "quantidade": 30
+    },
+    {
+      "id": "3579",
+      "nome": "Água",
+      "preco": 7,
+      "quantidade": 20
+    },
+    {
+      "id": "c83a",
+      "nome": "Teste",
+      "preco": 50,
+      "quantidade": 3
+    }
+  ]
+}
